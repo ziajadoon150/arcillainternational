@@ -52,7 +52,7 @@ body{
 
 /* logo image */
 .logo-mark {
-  width: auto;       /* allow width to adjust */
+  width: 70px;       /* allow width to adjust */
   height: 70px;      /* set header-appropriate height */
   overflow: hidden;
   display: flex;
