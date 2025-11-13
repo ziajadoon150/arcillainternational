@@ -62,12 +62,11 @@ body{
 }
 
 .logo-mark img {
-  height: 100%;      /* make the image fill the container height */
-  width: auto;       /* keep aspect ratio */
-  object-fit: contain;
+  width: 100%;               /* fill the container width */
+  height: 100%;              /* fill the container height */
+  object-fit: contain;       /* make the entire logo visible without cropping */
   display: block;
 }
-
 
 .brand-name{
   font-weight:700;
